@@ -1,0 +1,12 @@
+Symbol  Value   Flags:
+-----------------------
+FIRST   000000  R
+LOOP    00000A  R
+COUNT   00001D  R
+TABLE   000020  R
+TABLE2  001790  R
+TOTAL   002F00  R
+
+Name    Literal  Length Address:
+------------------------------
+   
