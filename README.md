@@ -1,7 +1,8 @@
 # SIC-XE-Disassembler
 ========================================================================================
-                            README
+                            
 whoami:
+
     Brian Arlantico, cssc3010, 821125494
     Nicholas Dollick, cssc3046, 815970305
     CS 530, Fall 2020
