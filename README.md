@@ -10,10 +10,12 @@ whoami:
 
 
 Desc:
+
     A disassembler for sic/xe architecture
                  
 
 Usage:
+
     compile commands:
         make
             to compile all files
@@ -35,6 +37,7 @@ TESTING WITH INCLUDED SAMPLE FILES:
     dis P2Sample
 
 Manifest:
+
     functions.hpp
         INFO
             Include and namespace declarations. Prototypes functions. Defines structs for opcodes,
